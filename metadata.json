@@ -1,0 +1,6 @@
+{
+  "name": "Organic Trade",
+  "description": "Daily broker trade record management app for agricultural commodities with calendar, parties, and product history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
